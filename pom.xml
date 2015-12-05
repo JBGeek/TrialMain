@@ -19,5 +19,6 @@
   <modules>
   	<module>Child1</module>
   	<module>Child2</module>
+  	<module>Child3</module>
   </modules>
 </project>
