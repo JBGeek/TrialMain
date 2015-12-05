@@ -8,5 +8,6 @@
   <description>TrialMain</description>
   <modules>
   	<module>Child1</module>
+  	<module>Child2</module>
   </modules>
 </project>
