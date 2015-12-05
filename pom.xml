@@ -6,6 +6,16 @@
   <packaging>pom</packaging>
   <name>TrialMain</name>
   <description>TrialMain</description>
+  
+  
+  <dependencies>
+  <dependency>
+	<groupId>org.testng</groupId>
+	<artifactId>testng</artifactId>
+	<version>6.9.4</version>
+  </dependency>
+  </dependencies>
+  
   <modules>
   	<module>Child1</module>
   	<module>Child2</module>
