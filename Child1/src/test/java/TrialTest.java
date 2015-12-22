@@ -5,6 +5,6 @@ public class TrialTest {
 	
 	@Test
 	public void trialTest(){
-		System.out.println("test1");
+		System.out.println("test12");
 	}
 }
