@@ -5,5 +5,5 @@
     <artifactId>TrialMain</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Child1</artifactId>
+  <artifactId>Child2</artifactId>
 </project>
