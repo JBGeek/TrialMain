@@ -3,7 +3,8 @@
   <parent>
     <groupId>com.services</groupId>
     <artifactId>TrialMain</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
   </parent>
-  <artifactId>Child2</artifactId>
+  <artifactId>Child32</artifactId>
+  //test2
 </project>
